@@ -98,6 +98,7 @@ class Program
 ///task 10
 static void SozleriYoxla()
     {
+        
         Console.Write("Birinci söz: ");
         string soz1 = Console.ReadLine();
 
