@@ -1,0 +1,14 @@
+C:\Users\X1504VA\Desktop\stringmethodtask\bin\Debug\net9.0\stringmethodtask.exe
+C:\Users\X1504VA\Desktop\stringmethodtask\bin\Debug\net9.0\stringmethodtask.deps.json
+C:\Users\X1504VA\Desktop\stringmethodtask\bin\Debug\net9.0\stringmethodtask.runtimeconfig.json
+C:\Users\X1504VA\Desktop\stringmethodtask\bin\Debug\net9.0\stringmethodtask.dll
+C:\Users\X1504VA\Desktop\stringmethodtask\bin\Debug\net9.0\stringmethodtask.pdb
+C:\Users\X1504VA\Desktop\stringmethodtask\obj\Debug\net9.0\stringmethodtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X1504VA\Desktop\stringmethodtask\obj\Debug\net9.0\stringmethodtask.AssemblyInfoInputs.cache
+C:\Users\X1504VA\Desktop\stringmethodtask\obj\Debug\net9.0\stringmethodtask.AssemblyInfo.cs
+C:\Users\X1504VA\Desktop\stringmethodtask\obj\Debug\net9.0\stringmethodtask.csproj.CoreCompileInputs.cache
+C:\Users\X1504VA\Desktop\stringmethodtask\obj\Debug\net9.0\stringmethodtask.dll
+C:\Users\X1504VA\Desktop\stringmethodtask\obj\Debug\net9.0\refint\stringmethodtask.dll
+C:\Users\X1504VA\Desktop\stringmethodtask\obj\Debug\net9.0\stringmethodtask.pdb
+C:\Users\X1504VA\Desktop\stringmethodtask\obj\Debug\net9.0\stringmethodtask.genruntimeconfig.cache
+C:\Users\X1504VA\Desktop\stringmethodtask\obj\Debug\net9.0\ref\stringmethodtask.dll
